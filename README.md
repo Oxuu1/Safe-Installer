@@ -13,3 +13,4 @@ Easy way to install Steam Unlocked Games Without getting a virus
 
 This is just Build 0.1 all of the code was created by ai to make it safe if find any bug report them to .dxxter. on discord
 
+You can Pause and UnPause the Download by Clicking P
